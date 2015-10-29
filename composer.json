@@ -1,0 +1,10 @@
+{
+    "name": "totose/php_avance_my_framework",
+    "authors": [
+        {
+            "name": "Djebali Sofiene",
+            "email": "djeb.sofiene@gmail.com"
+        }
+    ],
+    "require": {}
+}
